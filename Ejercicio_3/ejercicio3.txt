@@ -1,0 +1,11 @@
+Planeta / Saturno: Si se usaría la herencia ya que al Saturno ser un planeta este tendré 
+todas las cualidades de la clase planeta y a su vez otras cualidades propias. 
+
+Lista / Directorio de teléfono: No se usaría la herencia ya que no es necesario una lista 
+para definir un directorio de teléfono 
+
+Animal de compañía / Perro: No se usaría la herencia ya que el perro no Ɵene porque 
+ser un animal de compañía y por ello no siempre se cumplirá 
+
+Dos ruedas / Bicicleta: Si se usaría ya que toda bicicleta Ɵene dos únicas ruedas que le 
+dan la caracterísƟca de ser bicicleta con otros aspectos. 
