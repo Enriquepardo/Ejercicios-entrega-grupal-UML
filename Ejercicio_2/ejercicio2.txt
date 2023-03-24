@@ -1,0 +1,16 @@
+Aeropuerto / Avión: Agregación ya que para que el aeropuerto exista no es necesario 
+que haya aviones, sino que estos forman parte de un todo que es el aeropuerto.
+
+Continente / País: Composición ya que para que el continente exista tiene que haber 
+países dentro de este. 
+
+Molécula / Átomo: Composición ya que una molécula al fin y al cabo ser un conjunto 
+de átomos unidos estos son necesarios para crear la molécula. Los atómos no pueden 
+existir fuera de la molécula de la que forman parte.
+
+Colmena / Abejas: Agregación ya que como el avión en el aeropuerto la abeja no es 
+necesaria para la totalidad de la colmena ya que esta depende también de la reina y de 
+las larvas. 
+
+Muñeca rusa / Muñeca rusa: Composición ya que la muñeca rusa está compuesta por 
+otras muñecas idénƟcas que son ligeramente más pequeñas 
